@@ -142,7 +142,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for the opportunity to learn and grow as a developer
+Thanks to Microverse for the opportunity to learn and grow as a developer
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
