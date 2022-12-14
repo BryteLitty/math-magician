@@ -1,45 +1,46 @@
 .container {
-    margin: 10% auto;
-    width: 360.5px;
-    display: flex;
-    flex-direction: column;
-    /* align-items: center; */
+  margin: 10% auto;
+  width: 360.5px;
+  display: flex;
+  flex-direction: column;
+
+  /* align-items: center; */
 }
 
 .display-result {
-    background-color: black;
-    color: white;
-    padding: 25px;
-    font-size: 1.8em;
-    display: flex;
-    justify-content: flex-end;
+  background-color: black;
+  color: white;
+  padding: 25px;
+  font-size: 1.8em;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .buttons {
-    display: grid;
-    grid-template-columns: auto auto;
+  display: grid;
+  grid-template-columns: auto auto;
 }
 
-button { 
-    padding: 18px 37px;
-    background-color: #fff;
-    border: 1px solid #dfdfdf;
+button {
+  padding: 18px 37px;
+  background-color: #fff;
+  border: 1px solid #dfdfdf;
 }
 
 .operators {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 .operator {
-    background-color: orange;
+  background-color: orange;
 }
 
 .controllers {
-    display: grid;
-    grid-template-columns: repeat(3, auto);
+  display: grid;
+  grid-template-columns: repeat(3, auto);
 }
 
 .extend {
-    grid-column-end: span 2;
+  grid-column-end: span 2;
 }
