@@ -27,6 +27,10 @@ button {
   border: 1px solid #dfdfdf;
 }
 
+button:hover {
+    background-color: aliceblue;
+}
+
 .operators {
   display: flex;
   flex-direction: column;
