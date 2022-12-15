@@ -8,12 +8,14 @@
 - [📖 Math Magicians ](#-math-magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
+  - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [`npm start`](#npm-start)
     - [`npm test`](#npm-test)
     - [`npm run build`](#npm-run-build)
     - [Prerequisites](#prerequisites)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -26,6 +28,7 @@
 **Math magicians** is a simple for all fans of mathematics. It is a simple Single Page App (SPA) that allows users to make simple calculations and read random math-related quotes.
 
 ## 🛠 Built With <a name="built-with"></a>
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -41,29 +44,18 @@
 </details>
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features -->
-<!-- 
-### Key Features <a name="key-features"></a>
+## Key Features <a name="key-features"></a>
 
 
-- **Sumbmit Score**
-  A feature that allows users to submit socres to be displayed on the dashboard
-- **A Scoreboard**
-  A feature that displays users with their repective scores
-- **Refresh Scores Button**
-  A feature that allows users to refresh the Scoreboard in order to see the recently entered scores
+- **Calculator Interface**
+- **Logics for math operations**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
- <!-- --> 
-
-- [Live Demo Link](https://brytelitty.github.io/Leaderboard/dist/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -118,6 +110,16 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **A Single Page Web Application**
+- [ ] **A random math-related quote generator**
+- [ ] **Functionalities for performing math operations**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🤝 Contributing <a name="contributing"></a>
