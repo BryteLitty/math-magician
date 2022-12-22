@@ -1,0 +1,33 @@
+.pages-container {
+  width: 80%;
+  margin: auto;
+}
+
+.qoute-container {
+  width: 70%;
+  margin: 10% auto;
+}
+
+.quote {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 2em;
+  text-align: center;
+}
+
+.sub-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5%;
+}
+
+h1 {
+  font-size: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 1.2rem;
+}
