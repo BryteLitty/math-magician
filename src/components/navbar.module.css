@@ -1,0 +1,26 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+  padding: 20px 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.logo {
+  font-size: 1.9em;
+  font-weight: 700;
+  color: rgb(72, 66, 71);
+}
+
+.links {
+  text-decoration: none;
+  margin: 0 10px;
+  color: rgb(97, 93, 93);
+}
+
+.navItems {
+  display: flex;
+  list-style-type: none;
+}
