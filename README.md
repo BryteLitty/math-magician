@@ -9,6 +9,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
+  - [Live Demo ](#live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [`npm start`](#npm-start)
     - [`npm test`](#npm-test)
@@ -53,6 +54,12 @@
 - **Calculator Interface**
 - **Logics for math operations**
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Live Demo <a name="live-demo"></a>
+
+[Live Demo](https://math-magician-j6eq.onrender.com/quotes)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
